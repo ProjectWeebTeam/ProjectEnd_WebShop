@@ -9,7 +9,7 @@ Only for study, not for retail
 6. Pomelo.EntityFrameworkCore.MySql
 # How to install
 * Enter command in cmd/powershell/terminal(macOS, Linux)
-* "dotnet add package <name-package>"
-* Note: not need --version <version-code>
+* "dotnet add package (name-package)"
+* Note: not need --version (version-code)
   
 

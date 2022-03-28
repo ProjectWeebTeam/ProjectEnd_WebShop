@@ -1,4 +1,4 @@
-# ProjectEnd_ShopAcc
+# ProjectEnd_WebShop
 Only for study, not for retail
 # Library use in project
 1. EPPlus

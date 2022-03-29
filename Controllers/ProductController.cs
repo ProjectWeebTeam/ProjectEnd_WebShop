@@ -10,7 +10,13 @@ namespace ProjectEnd_ShopAcc.ProductControllers
 {
     public class ProductController : Controller
     {
+        private ILogger<ProductController> _logger;
+
         // GET: Product ( Sản Phẩm)
+        public ProductController(ILogger<ProductController> logger)
+        {
+            _logger = logger;
+        }
         public ActionResult Detail() // Chi tiết sản phẩm
         {
 return View();

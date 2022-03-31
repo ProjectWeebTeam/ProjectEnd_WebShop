@@ -20,4 +20,9 @@ namespace ProjectEnd_ShopAcc.Controllers
          public IActionResult Login2()
         {
             return View();
+        }
+        public IActionResult Login3()
+        {
+            return View();
         }}}
+           

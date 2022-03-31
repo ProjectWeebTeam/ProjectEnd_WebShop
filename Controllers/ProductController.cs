@@ -21,6 +21,9 @@ namespace ProjectEnd_ShopAcc.ProductControllers
         {
 return View();
         }
-    }
-}
+        public ActionResult CategoryH() // Phân loại sản phẩm
+        {
+            return View();
+        }}}
+ 
 

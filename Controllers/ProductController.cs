@@ -19,11 +19,15 @@ namespace ProjectEnd_ShopAcc.ProductControllers
         }
         public ActionResult Detail() // Chi tiết sản phẩm
         {
-return View();
+        return View();
         }
         public ActionResult Category() // Phân loại sản phẩm
         {
             return View();
+        }
+        public ActionResult Cart() // Chi tiết sản phẩm
+        {
+        return View();
         }}}
  
 

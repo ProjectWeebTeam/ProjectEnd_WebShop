@@ -11,5 +11,6 @@ Only for study, not for retail
 * Enter command in cmd/powershell/terminal(macOS, Linux)
 * "dotnet add package (name-package)"
 * Note: not need --version (version-code)
-  
+# Deprecated - PROJECT DEAD
+
 

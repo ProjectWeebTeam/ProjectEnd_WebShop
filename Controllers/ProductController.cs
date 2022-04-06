@@ -25,9 +25,18 @@ namespace ProjectEnd_ShopAcc.ProductControllers
         {
             return View();
         }
-        public ActionResult Cart() // Chi tiết sản phẩm
+        public ActionResult Cart() // giỏ hàng
         {
         return View();
-        }}}
+        }
+        public ActionResult Type() // Thể loại category
+        {
+        return View();
+        
+}
+        public ActionResult Style() // Dạng danh mục
+        {
+        return View();
+}}}
  
 
